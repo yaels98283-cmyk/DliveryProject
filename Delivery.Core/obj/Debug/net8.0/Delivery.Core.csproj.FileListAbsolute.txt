@@ -21,3 +21,4 @@ T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Core\obj\Debug\ne
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Core\obj\Debug\net8.0\refint\Delivery.Core.dll
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Core\obj\Debug\net8.0\Delivery.Core.pdb
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Core\obj\Debug\net8.0\ref\Delivery.Core.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Core\obj\Debug\net8.0\Delivery.Core.sourcelink.json

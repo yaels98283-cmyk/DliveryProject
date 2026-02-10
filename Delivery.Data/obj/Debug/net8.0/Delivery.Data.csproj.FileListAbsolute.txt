@@ -20,3 +20,4 @@ T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Data\obj\Debug\ne
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Data\obj\Debug\net8.0\Delivery.Data.pdb
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Data\obj\Debug\net8.0\Delivery.Data.genruntimeconfig.cache
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Data\obj\Debug\net8.0\ref\Delivery.Data.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Data\obj\Debug\net8.0\Delivery.Data.sourcelink.json

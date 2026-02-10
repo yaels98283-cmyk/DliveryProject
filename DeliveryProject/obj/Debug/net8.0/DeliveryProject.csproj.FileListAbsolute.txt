@@ -192,3 +192,6 @@ T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\net8.0\DeliveryProject.pdb
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\net8.0\DeliveryProject.genruntimeconfig.cache
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\net8.0\ref\DeliveryProject.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\net8.0\DeliveryProject.MvcApplicationPartsAssemblyInfo.cs
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryProject\obj\Debug\net8.0\DeliveryProject.sourcelink.json

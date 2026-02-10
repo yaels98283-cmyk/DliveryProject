@@ -28,3 +28,4 @@ T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Service\bin\Debug
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Service\bin\Debug\net8.0\Delivery.Core.pdb
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Service\obj\Debug\net8.0\Delivery.644FEB7A.Up2Date
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Service\obj\Debug\net8.0\ref\Delivery.Service.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\Delivery.Service\obj\Debug\net8.0\Delivery.Service.sourcelink.json

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\deliveryproject\\controllers\\deliverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|solutionrelative:deliveryproject\\controllers\\deliverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2F9570-3BF6-4BCE-A8ED-8ADAB62108A6}|Delivery.Data\\Delivery.Data.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\delivery.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2F9570-3BF6-4BCE-A8ED-8ADAB62108A6}|Delivery.Data\\Delivery.Data.csproj|solutionrelative:delivery.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\deliveryproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|solutionrelative:deliveryproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\deliveryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|solutionrelative:deliveryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E51D9-9818-4371-A96F-98EF059C0673}|Delivery.Core\\Delivery.Core.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\delivery.core\\respositories\\irecipientrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E51D9-9818-4371-A96F-98EF059C0673}|Delivery.Core\\Delivery.Core.csproj|solutionrelative:delivery.core\\respositories\\irecipientrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\deliveryproject\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|solutionrelative:deliveryproject\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{469E51D9-9818-4371-A96F-98EF059C0673}|Delivery.Core\\Delivery.Core.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\delivery.core\\services\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{469E51D9-9818-4371-A96F-98EF059C0673}|Delivery.Core\\Delivery.Core.csproj|solutionrelative:delivery.core\\services\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1deliveryproject\\deliveryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62041CC9-97F6-4D01-A590-10212D7D1389}|DeliveryProject\\DeliveryProject.csproj|solutionrelative:deliveryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +51,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeliversController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\DeliversController.cs",
+              "RelativeDocumentMoniker": "DeliveryProject\\Controllers\\DeliversController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\DeliversController.cs",
+              "RelativeToolTip": "DeliveryProject\\Controllers\\DeliversController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:15:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Delivery.Data\\DataContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Data\\DataContext.cs",
+              "RelativeToolTip": "Delivery.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:11:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DeliveryProject\\Controllers\\AuthController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DeliveryProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:37:28.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\appsettings.json",
+              "RelativeDocumentMoniker": "DeliveryProject\\appsettings.json",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\appsettings.json",
+              "RelativeToolTip": "DeliveryProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T12:18:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecipientRespository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Core\\Respositories\\IRecipientRespository.cs",
+              "RelativeDocumentMoniker": "Delivery.Core\\Respositories\\IRecipientRespository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Core\\Respositories\\IRecipientRespository.cs",
+              "RelativeToolTip": "Delivery.Core\\Respositories\\IRecipientRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:20:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PackagesController.cs",
               "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\PackagesController.cs",
               "RelativeDocumentMoniker": "DeliveryProject\\Controllers\\PackagesController.cs",
               "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Controllers\\PackagesController.cs",
               "RelativeToolTip": "DeliveryProject\\Controllers\\PackagesController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAASwDsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T09:18:04.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "RecipientService.cs",
               "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Service\\RecipientService.cs",
               "RelativeDocumentMoniker": "Delivery.Service\\RecipientService.cs",
@@ -60,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PackageService.cs",
               "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Service\\PackageService.cs",
               "RelativeDocumentMoniker": "Delivery.Service\\PackageService.cs",
@@ -73,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IPackageService.cs",
               "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\Delivery.Core\\Services\\IPackageService.cs",
               "RelativeDocumentMoniker": "Delivery.Core\\Services\\IPackageService.cs",
@@ -82,19 +163,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T09:17:01.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Program.cs",
-              "RelativeDocumentMoniker": "DeliveryProject\\Program.cs",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05E9\u05D8\u05E8\u05D9\u05EA\\1DeliveryProject\\DeliveryProject\\Program.cs",
-              "RelativeToolTip": "DeliveryProject\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T08:52:42.476Z",
               "EditorCaption": ""
             }
           ]

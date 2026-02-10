@@ -280,3 +280,5 @@ T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\obj\Debug\net
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\obj\Debug\net8.0\DeliveryTest.pdb
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\obj\Debug\net8.0\DeliveryTest.genruntimeconfig.cache
 T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\obj\Debug\net8.0\ref\DeliveryTest.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+T:\Group B\NetCore\יעל שטרית\1DeliveryProject\DeliveryTest\obj\Debug\net8.0\DeliveryTest.sourcelink.json
