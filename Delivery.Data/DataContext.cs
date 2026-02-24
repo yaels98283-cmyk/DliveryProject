@@ -8,6 +8,7 @@ namespace Delivery.Data
         public DbSet<Delivers> delivers { get; set; }
         public DbSet<Packages> packages { get; set; }
         public DbSet<Recipients> recipients { get; set; }
+        public DbSet<User> users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=School");
